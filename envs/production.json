@@ -2,5 +2,7 @@
     "Base_url":"",
     "APP_NAME":"",
     "IS_STAGE":false,
-    "IS_PRODUCTION":true
+    "IS_PRODUCTION":true,
+    "SHOW_LOG": "No"
+
 }
